@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITSSB\\SmartClinic.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|d:\\itssb\\smartclinic.api\\models\\patientcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|solutionrelative:models\\patientcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|d:\\itssb\\smartclinic.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|d:\\itssb\\smartclinic.api\\smartclinic.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|solutionrelative:smartclinic.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|d:\\itssb\\smartclinic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2262E93C-03D6-9EC8-6C40-C35D90C317D6}|SmartClinic.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientCreateRequest.cs",
+              "DocumentMoniker": "D:\\ITSSB\\SmartClinic.API\\Models\\PatientCreateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PatientCreateRequest.cs",
+              "ToolTip": "D:\\ITSSB\\SmartClinic.API\\Models\\PatientCreateRequest.cs",
+              "RelativeToolTip": "Models\\PatientCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:25:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ITSSB\\SmartClinic.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\ITSSB\\SmartClinic.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T14:42:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartClinic.API.csproj",
+              "DocumentMoniker": "D:\\ITSSB\\SmartClinic.API\\SmartClinic.API.csproj",
+              "RelativeDocumentMoniker": "SmartClinic.API.csproj",
+              "ToolTip": "D:\\ITSSB\\SmartClinic.API\\SmartClinic.API.csproj",
+              "RelativeToolTip": "SmartClinic.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:32:56.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITSSB\\SmartClinic.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITSSB\\SmartClinic.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:33:38.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
